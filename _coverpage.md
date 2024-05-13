@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-# public-wmhxx-api
+# wmhxx-Api
 
 > 💪 wmhxx-api使用指南，用于记录或许能使用到的Api，去做一些有趣的小玩意~
 
